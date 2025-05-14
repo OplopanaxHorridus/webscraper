@@ -5,12 +5,12 @@ import re
 import os  
   
 # Base URL  
-base_url = "https://www.lightnovelworld.com"  
+base_url = "https://www.light*novel*world.com"  
   
 # List of starting URLs (first chapters of each novel)  
 start_urls = [  
-    "/novel/the-legendary-mechanic-245/chapter-1-27061855",  
-    "/novel/mother-of-learning-1258/chapter-1-09061431"
+    "/novel/NovelTitle Bblah-245/chapter-1-27061855",  
+    "/novel/Blah another Novel title just get the URL from first chapter and put it here1258/chapter-1-09061431"
 ]  
   
 # Function to scrape a chapter  
