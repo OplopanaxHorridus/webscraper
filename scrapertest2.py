@@ -5,7 +5,7 @@ import re
 import os  
   
 # Base URL  
-base_url = "https://www.light*novel*world.com"  
+base_url = "https://www.light*novel*globe.com"  
   
 # List of starting URLs (first chapters of each novel)  
 start_urls = [  
